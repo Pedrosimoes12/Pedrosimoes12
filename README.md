@@ -3,7 +3,7 @@
 🌱 I’m currently learning JavaScript  
 💬 I’m looking for my first internship in tech!    
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-simoes12/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedros.simoes12@gmail.com) 
 
