@@ -17,7 +17,3 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrosimoes12&theme=darcula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Pedrosimoes12&icon=0&color=0)](https://visitcount.itsvg.in)
