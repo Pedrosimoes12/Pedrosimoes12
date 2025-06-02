@@ -16,7 +16,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-# 📊 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrosimoes12&theme=darcula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
