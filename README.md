@@ -1,4 +1,3 @@
-## 💫 About Me:
 🔭 I’m currently studying Computer Science at UCS - Unisantos  
 🌱 I’m currently learning JavaScript  
 💬 I’m looking for my first internship in tech!    
