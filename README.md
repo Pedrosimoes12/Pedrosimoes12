@@ -15,9 +15,7 @@
 <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-
 <br><br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrosimoes12&theme=darcula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
 
