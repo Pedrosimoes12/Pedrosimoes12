@@ -1,8 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently studying Computer Science at UCS - Unisantos  
 🌱 I’m currently learning JavaScript  
-💬 I’m looking for my first internship in tech!  
-💡 Skills in Python, C, SQL and AWS  
+💬 I’m looking for my first internship in tech!    
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-simoes12/) 
