@@ -1,6 +1,6 @@
-🔭 I’m currently studying Computer Science at UCS - Unisantos  
-🌱 I’m currently learning JavaScript  
-💬 I’m looking for my first internship in tech!    
+🔭 Currently studying Computer Science at UCS - Unisantos  
+🌱 Currently learning JavaScript  
+💬 Looking for my first internship in tech!    
 
 ## 💻 Tech Stack:
 <div align="center">
