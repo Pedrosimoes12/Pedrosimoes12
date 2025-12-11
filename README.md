@@ -1,6 +1,4 @@
 🔭 Currently studying Computer Science at UCS - Unisantos  
-🌱 Currently learning JavaScript  
-💬 Looking for my first internship in tech!    
 
 ## 💻 Tech Stack:
 <div align="center">
