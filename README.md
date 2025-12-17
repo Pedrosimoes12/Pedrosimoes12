@@ -1,4 +1,4 @@
-🔭 Currently studying Computer Science at UCS - Unisantos  
+Currently studying Computer Science at UCS - Unisantos  
 
 ## 💻 Tech Stack:
 <div align="center">
